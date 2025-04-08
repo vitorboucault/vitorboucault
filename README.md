@@ -9,3 +9,7 @@ hi, my name is João and I'm a Brazilian software engineer
 ### connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-5b5b58?style=for-the-badge&logo=linkedin&logoColor=)](https://www.linkedin.com/in/vitorboucault/) [![Gmail](https://img.shields.io/badge/Gmail-5b5b58?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vitorboucault@gmail.com) [![Instagram](https://img.shields.io/badge/-Instagram-%FFFFFF?style=for-the-badge&logo=instagram&logoColor=white&color=5b5b58)](https://www.instagram.com/vitorboucault/)
+
+### github stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vitorboucault&theme=transparent&bg_color=000&border_color=fff&show_icons=true&icon_color=fff&title_color=fff&text_color=FFF)
